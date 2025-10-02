@@ -1,4 +1,4 @@
-#  🎶 Unlocking Music Trends with Data: Advanced Spotify Global Top 50 Dashboard 
+#  🎶 Unlocking Music Trends with Data: Advanced Spotify Analysis Power BI Dashboard 
 ### *A Comprehensive Power BI & DAX Query View Project by Bhaskar Pal*  
 
 ---
