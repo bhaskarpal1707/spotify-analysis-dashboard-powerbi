@@ -1,5 +1,5 @@
-# 🎵 Spotify Top 50 Global Analysis Dashboard  
-### *Advanced Power BI Project by Bhaskar Pal*  
+# # 🎶 Unlocking Music Trends with Data: Advanced Spotify Global Top 50 Dashboard 
+### *A Comprehensive Power BI & DAX Query View Project by Bhaskar Pal*  
 
 ---
 
@@ -108,8 +108,8 @@ The Power BI dashboard solves all these problems by combining global datasets wi
   - Artist-specific & Year-specific measures  
   - Position-based rankings (#1 Hits) 
 
-  ```dax
-  
+---
+```dax
 DEFINE
     MEASURE 'Top-50-world'[Total Songs] = COUNTROWS('Top-50-world')
     MEASURE 'Top-50-world'[Distinct Songs] = DISTINCTCOUNT('Top-50-world'[song])
@@ -117,6 +117,7 @@ DEFINE
     MEASURE 'Top-50-world'[Avg Popularity] = AVERAGE('Top-50-world'[popularity])
     MEASURE 'Top-50-world'[Max Popularity] = MAX('Top-50-world'[popularity])
     MEASURE 'Top-50-world'[Min Popularity] = MIN('Top-50-world'[popularity])
+
 
     MEASURE 'Top-50-world'[Avg Duration Minutes] = AVERAGE('Top-50-world'[duration_ms]) / 60000
     MEASURE 'Top-50-world'[Max Duration Minutes] = MAX('Top-50-world'[duration_ms]) / 60000
@@ -185,8 +186,9 @@ EVALUATE
         "Avg Duration per Year", [Avg Duration per Year],
         "Pct Explicit per Year", [Pct Explicit per Year]
     )
-    ```
-
+```
+---
+   
 ### Step 4: Apply All Measures  
 - Clicked **Apply All Updates** to add all measures into the data model in seconds.  
 
