@@ -1,4 +1,8 @@
 #  🎶 Unlocking Music Trends with Data: Advanced Spotify Analysis Power BI Dashboard 
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/01803d3f-d819-423c-a57a-be334655aea1" />
+
+
 ### *A Comprehensive Power BI & DAX Query View Project by Bhaskar Pal*  
 
 ---
