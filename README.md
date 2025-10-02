@@ -201,6 +201,28 @@ EVALUATE
 - Ensured each page (Overview, Artist, Song) provided **both summary & drill-down insights**.  
 
 ---
+### 💡 Dashboard_1 (Home):
+<img width="6000" height="3375" alt="image" src="https://github.com/user-attachments/assets/fde635fa-7c1f-4875-8d72-5427563b9242" />
+
+---
+
+---
+### 💡 Dashboard_2 (Overview):
+<img width="6000" height="3375" alt="image" src="https://github.com/user-attachments/assets/52eb2fbc-8d33-4771-a58b-1f573c4fccae" />
+
+---
+
+---
+### 💡 Dashboard_3 (Artists):
+<img width="6000" height="3375" alt="image" src="https://github.com/user-attachments/assets/0fb09b0a-2324-4221-8db7-31c8603fb3e5" />
+
+---
+
+---
+### 💡 Dashboard_4 (Songs):
+<img width="6000" height="3375" alt="image" src="https://github.com/user-attachments/assets/96e02800-41c3-4f9c-aa68-c1012a709a89" />
+
+---
 
 ## 📊 Detailed Business Insights  
 
